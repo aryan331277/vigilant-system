@@ -1,0 +1,25 @@
+# Core dependencies for Spatial Audio Navigation System
+
+# Video processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Object detection and tracking
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+boxmot>=10.0.0
+
+# Vision-language model (Moondream)
+transformers>=4.35.0
+Pillow>=10.0.0
+accelerate>=0.24.0
+
+# Text-to-speech
+pyttsx3>=2.90
+
+# Audio processing
+scipy>=1.11.0
+
+# Utilities
+tqdm>=4.66.0
